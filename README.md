@@ -36,12 +36,12 @@ Profesyonel kariyerimde **PCB Donanım Tasarımı ve Ürün Geliştirme** üzeri
   - Prototip oluşturma, hata analizi ve seri üretime hazırlık.
  
 ### **Algoritma ve Kontrol Sistemleri**
-- **Codesys** ile endüstriyel süreçlere özel kontrol algoritmaları geliştirme.
-- **Delta, Omron, Schneider PLC**'leri ile saha uygulamaları.
- 
-### **Endüstriyel Otomasyon**
-- **Simens TIA Portal** ile HVAC ve aydınlatma otomasyonu.
-- Proses kontrol ve enerji yönetimi projeleri.
+- **STM32** ile gömülü sistemler ve kontrol algoritmaları geliştirme.
+- **Keil, MPLAB X** ile mikrodenetleyici programlama.
+- **ARM, C Dili, Assembly** ile düşük seviyeli yazılım geliştirme ve donanım kontrolü.
+
+### **Otomasyon ve Kart Tasarımı Tutkunu | Akıllı Çözümler Üreten Mühendislik Zihni**
+- Otomasyon teknolojilerine ve elektronik kart tasarımına ilgi duyan, endüstriyel sistemleri daha verimli ve akıllı hale getirmeye meraklı biri. PLC, SCADA, mikrodenetleyiciler ve kontrol sistemleri ile süreçleri optimize ederken, Altium Designer ve PCB tasarım araçları ile özel devre kartları geliştirerek yenilikçi çözümler üretmeye odaklanan bir mühendislik tutkunu. 🚀⚙️🔌
  
 ---
  
@@ -52,13 +52,14 @@ Profesyonel kariyerimde **PCB Donanım Tasarımı ve Ürün Geliştirme** üzeri
 - **Teknolojiler**: Altium Designer, EMI/EMC analiz araçları.
 - **Sonuç**: Verimli ve seri üretime uygun bir PCB geliştirilmesi.
  
-### 💡 **HVAC ve Aydınlatma Otomasyonu**
-- **Kapsam**: Simens TIA Portal ile bina otomasyon sistemlerinin tasarımı ve kurulumu.
-- **Sonuç**: Enerji tasarrufu ve tam entegrasyonlu kontrol altyapısı.
+### 💡 **15W Flyback Trafo Projesi**
+- **Kapsam**: 220V AC girişli, 15W çıkış gücüne sahip Flyback güç kaynağı tasarımı.
+- **Sonuç**: Altium Designer, SPICE tabanlı simülasyon araçları, EMI/EMC optimizasyonu.
  
 ### 🛠️ **Codesys Algoritma Geliştirme**
 - **Kapsam**: Fabrika otomasyonu için özelleştirilmiş kontrol algoritmalarının tasarımı.
 - **Sonuç**: Daha hızlı işlem süreleri ve esnek yapılandırmalar.
+- **Kazanım**: Endüstriyel kart tasarım süreçlerine hakimiyet 
  
 ---
  
