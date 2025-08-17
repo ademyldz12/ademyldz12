@@ -4,14 +4,15 @@
  
 <div align="center">
 <a href="https://github.com/ademyldz12">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Adem+Y%C4%B1ld%C4%B1z+%E2%9C%A8;%F0%9F%93%9A+Hardware+Designer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=Merhaba,+ben+Adem+Y%C4%B1ld%C4%B1z.;Elektrik-Elektronik+M%C3%BChendisi+|+PCB+tasar%C4%B1m,+otomasyon+kartlar+ve+g%C3%B6m%C3%BCl%C3%BC+%C3%BCzerine+uzman.;End%C3%BCstriyel+otomasyon+projeleri,+yüksek+verimlilikle+devre+tasarımı+ve+g%C3%B6m%C3%BCl%C3%BC+sistemler.;Amac%C4%B1m+teknik+ve+yenilik%C3%A7i+%C3%A7%C3%B6z%C3%BCmler+sunmak." alt="Typing SVG" />
+
 
 </a>
 </div>
 
 # Hakkımda 👋
  
-Merhaba, ben **Adem Yıldız**. Elektrik-Elektronik Mühendisi olarak **PCB Donanım Tasarımı** ve **Elektronik Sistem Geliştirme** alanında uzmanlaşmaya odaklanıyorum. Endüstriyel elektronik projelerden, yüksek verimlilikle çalışan devre kartlarının tasarımına kadar geniş bir yelpazede deneyime sahibim. Amacım, hem teknik hem de yenilikçi çözümlerle projelere değer katmak.
+Merhaba, ben Adem Yıldız. Elektrik-Elektronik Mühendisi olarak PCB donanım tasarımı, otomasyon kart geliştirme ve gömülü sistemler alanında uzmanlaşmaya odaklanıyorum. Endüstriyel otomasyon projelerinden, yüksek verimlilikle çalışan devre kartlarının tasarımına ve mikrodenetleyici tabanlı gömülü sistem çözümlerine kadar geniş bir deneyime sahibim. Amacım, hem teknik hem de yenilikçi çözümlerle projelere değer katmak ve gerçek dünyadaki sorunlara uygulanabilir elektronik çözümler sunmaktır.
  
 ---
  
