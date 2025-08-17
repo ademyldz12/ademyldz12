@@ -4,7 +4,8 @@
  
 <div align="center">
 <a href="https://github.com/ademyldz12">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Adem+Y%C4%B1ld%C4%B1z+%E2%9C%A8;%F0%9F%93%9A+Hardware+Designer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Adem+Y%C4%B1ld%C4%B1z;Elektrik-Elektronik+M%C3%BChendisi;PCB+ve+otomasyon+kart+tasarımı;G%C3%B6m%C3%BCl%C3%BC+sistem+ç%C3%B6z%C3%BCmleri" alt="Typing SVG" />
+
 
 
 
